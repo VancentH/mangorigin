@@ -1,0 +1,505 @@
+[
+  {
+    "id": "4517ca5a-1f7e-46b2-bb36-58ec34c4203f",
+    "date_added": "2019-03-03 13:55:25",
+    "category": "3_1",
+    "name": "【特選】金煌芒果5斤(3-5顆)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": true,
+      "title": "即日起至 2019-07-07",
+      "content": "6折",
+      "discount": 80
+    },
+    "price": 800,
+    "netweight": "5",
+    "count": "3-5",
+    "freight": 100,
+    "image_id": "1c909090-c365-4bc6-be15-a2ed5ae567ac",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 1,
+    "seller_id": "s00001",
+    "seller": "XXX",
+    "telephone": [
+      "08-7982324"
+    ],
+    "phone": [
+      "0912345678",
+      "0923456789"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "7cf78a1a-a74b-4fb0-bd54-307688e87f8f",
+    "date_added": "2019-03-03 13:55:25",
+    "category": "3_1",
+    "name": "特選金煌芒果10斤(5-11顆)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": true,
+      "title": "即日起至 2019-07-07",
+      "content": "88折",
+      "discount": 88
+    },
+    "price": 1800,
+    "netweight": "10",
+    "count": "5-11",
+    "freight": 150,
+    "image_id": "2c995078-cea1-46d5-9e16-a0b5c5f8e153",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 1,
+    "seller_id": "s00001",
+    "seller": "XXX",
+    "telephone": [
+      "08-7982324"
+    ],
+    "phone": [
+      "0912345678",
+      "0923456789"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "13609360-36cc-4360-b192-678ce336be54",
+    "date_added": "2019-02-01 13:01:33",
+    "category": "3_2",
+    "name": "優級金煌芒果5斤(3-5顆)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 500,
+    "netweight": "5",
+    "count": "3-5",
+    "freight": 150,
+    "image_id": "c8b76b7e-34b6-43e4-8352-92f7231120d3",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 2,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "13609360-36cc-4360-b192-678ce136be54",
+    "date_added": "2019-02-01 13:01:33",
+    "category": "3_2",
+    "name": "優級金煌芒果10斤(8-10顆)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 1000,
+    "netweight": "10",
+    "count": "8-10",
+    "freight": 150,
+    "image_id": "c8b76b7e-34b6-43e4-8352-92f7231120d3",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 2,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "2035e5c6-92f4-40b2-b5d0-ce54ab7491cf",
+    "date_added": "2019-05-01 13:02:33",
+    "category": "1_1",
+    "name": "產地直銷 新鮮土芒果3台斤(約12-16顆)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。因為水果類容易在寄送過程損壞，所以一律冷藏宅配貨到付款！或者面交自取！",
+    "discount": {
+      "enable": false
+    },
+    "price": 650,
+    "netweight": "3",
+    "count": "12-16",
+    "freight": 100,
+    "image_id": "7f75fd46-b846-43da-a7b6-7712162d741f",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 3,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "2c5ded8c-1d65-491a-9e88-cdabda23b356",
+    "date_added": "2019-05-01 13:01:33",
+    "category": "2_1",
+    "name": "特美愛文芒果 嚴選10斤(12-15)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 900,
+    "netweight": "10",
+    "count": "12-15",
+    "freight": 100,
+    "image_id": "f78fea0f-c483-4aef-8670-7cf23826b518",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 5,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "be27fd4b-1d05-4633-a028-31be52c747d9",
+    "date_added": "2019-05-01 13:01:33",
+    "category": "2_2",
+    "name": "「特選」愛文芒果 嚴選10斤(12-15)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。屏東的烈日，曬得紅通通的，果肉Q，甜度高，在欉紅香氣更足。",
+    "discount": {
+      "enable": false
+    },
+    "price": 700,
+    "netweight": "10",
+    "count": "12-15",
+    "freight": 150,
+    "image_id": "52d53b13-a778-462c-8997-ab79d5a9efbb",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 5,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "重量：10台斤(6公斤)足重，果實有時候會因為重量影響增減1顆，請見諒。"
+  },
+  {
+    "id": "40506e56-7509-42cf-abb1-0ac61fd9ee07",
+    "date_added": "2019-05-01 13:01:33",
+    "category": "2_2",
+    "name": "「特選」愛文芒果 嚴選10斤(10-15)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 600,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 100,
+    "image_id": "52d53b13-a778-462c-8997-ab79d5a9efbb",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 6,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "de33006a-6372-4497-b189-ddb1e4c4ce38",
+    "date_added": "2019-05-01 13:01:33",
+    "category": "2_2",
+    "name": "特選愛文10斤(10-15)",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 500,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 150,
+    "image_id": "52d53b13-a778-462c-8997-ab79d5a9efbb",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 6,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "710d33c7-b079-493c-80e3-7b5b7782d71f",
+    "date_added": "2019-06-01 14:01:33",
+    "category": "2_2",
+    "name": "愛文芒果 3",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 110,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 100,
+    "image_id": "240cec4e-1468-42ab-83d0-620ca745a5e2",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 7,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "3bc0fae5-b755-4ef3-8721-3f24154fe1b5",
+    "date_added": "2019-06-01 14:01:33",
+    "category": "2_3",
+    "name": "愛文芒果 4",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 190,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 150,
+    "image_id": "240cec4e-1468-42ab-83d0-620ca745a5e2",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 7,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "e5cd6606-6f23-411e-b4fe-2918b32564bf",
+    "date_added": "2019-06-01 13:01:33",
+    "category": "2_3",
+    "name": "特選愛文芒果 4",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 900,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 100,
+    "image_id": "4d21999b-1fb2-4534-88af-72e6f4198921",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 8,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "b0f08ff2-96a6-424d-9764-99d4f7db65fd",
+    "date_added": "2019-06-01 13:01:33",
+    "category": "2_3",
+    "name": "特選愛文芒果 4",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 1700,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 150,
+    "image_id": "4d21999b-1fb2-4534-88af-72e6f4198921",
+    "image_type": "jpg",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 8,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "957cb889-09ba-4849-8009-5b8bb1c49a9a",
+    "date_added": "2020-06-01 14:01:33",
+    "category": "2_3",
+    "name": "特選愛文芒果 5",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 110,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 100,
+    "image_id": "4750cd56-c567-48b0-9d00-1b9e6f45ea8f",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 7,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  },
+  {
+    "id": "59bf8ff3-5948-4256-8ecb-9d17874cf61c",
+    "date_added": "2019-06-01 14:01:33",
+    "category": "2_3",
+    "name": "特選愛文芒果 5",
+    "desc": "來自〇〇縣〇〇鄉〇〇村新鮮現採芒果，由果園主人細心照料，絕對物超所值。",
+    "discount": {
+      "enable": false
+    },
+    "price": 180,
+    "netweight": "10",
+    "count": "10-15",
+    "freight": 150,
+    "image_id": "4750cd56-c567-48b0-9d00-1b9e6f45ea8f",
+    "image_type": "png",
+    "currency": "NTD",
+    "location": "〇〇縣〇〇鄉〇〇村",
+    "peak_harvest_period": [
+      "5",
+      "6"
+    ],
+    "number_of_item_viewed": 150,
+    "number_of_items_sold": 7,
+    "seller_id": "s00002",
+    "seller": "XXX",
+    "telephone": [
+      "08-8781951"
+    ],
+    "phone": [
+      "0987654321"
+    ],
+    "other": "備註"
+  }
+]

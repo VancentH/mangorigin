@@ -1,0 +1,17 @@
+.flex(@justify-content:center , @align-items:center) {
+  display: flex;
+  justify-content: @justify-content;
+  align-items: @align-items;
+}
+
+.flex-div-left-center {
+  .flex(flex-start; center);
+}
+
+.flex-div-right-center {
+  .flex(flex-end; center);
+}
+
+.flex-div-space_between-center {
+  .flex(space-between; center);
+}

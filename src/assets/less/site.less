@@ -1,0 +1,103 @@
+@import '~iview/src/styles/index.less';
+// @import 'variable.less';
+// @import 'extend.less';
+// @import (css) url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+
+// @font-size-base: 14px;
+@font-size-small: 16px;
+@font-family : "Noto Sans TC",
+"Helvetica Neue",
+Helvetica,
+"PingFang SC",
+"Hiragino Sans GB",
+"Microsoft YaHei",
+"微软雅黑",
+Arial,
+sans-serif;
+
+@layout-header-padding : 0px 0px;
+@layout-body-background : #ffffff;
+// @component-background : #000;
+// @layout-footer-background    : @layout-body-background;
+
+.ivu-menu {
+  z-index: 5;
+}
+.ivu-layout-footer {
+  text-align: center;
+}
+
+// Board
+.ivu-collapse {
+
+  > .ivu-collapse-item.ivu-collapse-item-active>.ivu-collapse-header>i {
+    transform: rotate(45deg);
+  }
+
+  .ivu-icon-ios-arrow-forward:before {
+    content: "\F330";
+  }
+
+}
+.ivu-collapse > .ivu-collapse-item > .ivu-collapse-header {
+  color: @primary-color;
+}
+.ivu-collapse-content {
+  margin-left: 36px;
+}
+
+.ivu-poptip-popper{
+  font-size: 14px;
+}
+
+// page
+
+.ivu-page-item a {
+  font-family: "Noto Sans TC", "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "\5FAE\8F6F\96C5\9ED1", Arial, sans-serif;
+}
+
+.ivu-page-item-active {
+  font-weight: 600;
+}
+
+.ivu-layout-header {
+  background: #ffffff;
+}
+
+// 自訂 menu 區域 TODO:
+.ivu-menu {
+  background: #ffffff;
+}
+
+.ivu-menu.ivu-menu-horizontal .ivu-menu-item {
+  color: rgba(0,0,0,.7)
+}
+
+.ivu-menu.ivu-menu-horizontal .ivu-menu-item:hover {
+  color: #2D8cF0;
+}
+
+.text-black {
+  color: #000000;
+}
+
+:root {
+  --text-color: rgb(0, 0, 0);
+  --button-color: rgb(0,0,0);
+  --button-border-color: #dcdee2;
+  --border-radius: 3px;
+  --link-color: rgb(74, 74, 243);
+  --link-hover-color: #515a6e;
+  --list-dash-border-color: #cfcfcf;
+  --second-color: rgba(0, 0, 0, 0.5 );
+  --green-color: #71DC66;
+  --yellow-color: #EBD93F;
+  --orange-color: #FE5E44;
+  --red-color: red;
+}
+
+// menu & content response
+.layout-menu,
+.layout-content {
+  padding: 0 50px;
+}
